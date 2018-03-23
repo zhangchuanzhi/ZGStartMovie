@@ -8,24 +8,39 @@
 
 /* Begin PBXBuildFile section */
 		2387E7272064E0A40016AAB7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2387E7262064E0A40016AAB7 /* AppDelegate.m */; };
-		2387E72A2064E0A40016AAB7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2387E7292064E0A40016AAB7 /* ViewController.m */; };
-		2387E72D2064E0A40016AAB7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2387E72B2064E0A40016AAB7 /* Main.storyboard */; };
 		2387E72F2064E0A40016AAB7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2387E72E2064E0A40016AAB7 /* Assets.xcassets */; };
-		2387E7322064E0A40016AAB7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2387E7302064E0A40016AAB7 /* LaunchScreen.storyboard */; };
 		2387E7352064E0A40016AAB7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2387E7342064E0A40016AAB7 /* main.m */; };
+		2387E7712064E1760016AAB7 /* View222Controller.m in Sources */ = {isa = PBXBuildFile; fileRef = 2387E7672064E1750016AAB7 /* View222Controller.m */; };
+		2387E7722064E1760016AAB7 /* RootTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2387E7682064E1750016AAB7 /* RootTabBarController.m */; };
+		2387E7732064E1760016AAB7 /* View333Controller.m in Sources */ = {isa = PBXBuildFile; fileRef = 2387E76B2064E1750016AAB7 /* View333Controller.m */; };
+		2387E7742064E1760016AAB7 /* View111Controller.m in Sources */ = {isa = PBXBuildFile; fileRef = 2387E76C2064E1750016AAB7 /* View111Controller.m */; };
+		2387E7752064E1760016AAB7 /* RootNavController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2387E7702064E1750016AAB7 /* RootNavController.m */; };
+		2387E7782064E1890016AAB7 /* qidong.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2387E7762064E1890016AAB7 /* qidong.mp4 */; };
+		2387E7792064E1890016AAB7 /* 111.gif in Resources */ = {isa = PBXBuildFile; fileRef = 2387E7772064E1890016AAB7 /* 111.gif */; };
+		2387E77C2064E1BE0016AAB7 /* WSMovieController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2387E77B2064E1BE0016AAB7 /* WSMovieController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		2387E7222064E0A40016AAB7 /* ZGStartMovie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZGStartMovie.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2387E7252064E0A40016AAB7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		2387E7262064E0A40016AAB7 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		2387E7282064E0A40016AAB7 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		2387E7292064E0A40016AAB7 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		2387E72C2064E0A40016AAB7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		2387E72E2064E0A40016AAB7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		2387E7312064E0A40016AAB7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2387E7332064E0A40016AAB7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2387E7342064E0A40016AAB7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2387E7672064E1750016AAB7 /* View222Controller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = View222Controller.m; sourceTree = "<group>"; };
+		2387E7682064E1750016AAB7 /* RootTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootTabBarController.m; sourceTree = "<group>"; };
+		2387E7692064E1750016AAB7 /* View111Controller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = View111Controller.h; sourceTree = "<group>"; };
+		2387E76A2064E1750016AAB7 /* RootNavController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootNavController.h; sourceTree = "<group>"; };
+		2387E76B2064E1750016AAB7 /* View333Controller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = View333Controller.m; sourceTree = "<group>"; };
+		2387E76C2064E1750016AAB7 /* View111Controller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = View111Controller.m; sourceTree = "<group>"; };
+		2387E76D2064E1750016AAB7 /* RootTabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootTabBarController.h; sourceTree = "<group>"; };
+		2387E76E2064E1750016AAB7 /* View222Controller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = View222Controller.h; sourceTree = "<group>"; };
+		2387E76F2064E1750016AAB7 /* View333Controller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = View333Controller.h; sourceTree = "<group>"; };
+		2387E7702064E1750016AAB7 /* RootNavController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootNavController.m; sourceTree = "<group>"; };
+		2387E7762064E1890016AAB7 /* qidong.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = qidong.mp4; sourceTree = "<group>"; };
+		2387E7772064E1890016AAB7 /* 111.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 111.gif; sourceTree = "<group>"; };
+		2387E77A2064E1BD0016AAB7 /* WSMovieController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WSMovieController.h; sourceTree = "<group>"; };
+		2387E77B2064E1BE0016AAB7 /* WSMovieController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WSMovieController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,17 +73,35 @@
 		2387E7242064E0A40016AAB7 /* ZGStartMovie */ = {
 			isa = PBXGroup;
 			children = (
+				2387E7662064E1750016AAB7 /* Controller */,
 				2387E7252064E0A40016AAB7 /* AppDelegate.h */,
 				2387E7262064E0A40016AAB7 /* AppDelegate.m */,
-				2387E7282064E0A40016AAB7 /* ViewController.h */,
-				2387E7292064E0A40016AAB7 /* ViewController.m */,
-				2387E72B2064E0A40016AAB7 /* Main.storyboard */,
+				2387E77A2064E1BD0016AAB7 /* WSMovieController.h */,
+				2387E77B2064E1BE0016AAB7 /* WSMovieController.m */,
+				2387E7772064E1890016AAB7 /* 111.gif */,
+				2387E7762064E1890016AAB7 /* qidong.mp4 */,
 				2387E72E2064E0A40016AAB7 /* Assets.xcassets */,
-				2387E7302064E0A40016AAB7 /* LaunchScreen.storyboard */,
 				2387E7332064E0A40016AAB7 /* Info.plist */,
 				2387E7342064E0A40016AAB7 /* main.m */,
 			);
 			path = ZGStartMovie;
+			sourceTree = "<group>";
+		};
+		2387E7662064E1750016AAB7 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				2387E7672064E1750016AAB7 /* View222Controller.m */,
+				2387E7682064E1750016AAB7 /* RootTabBarController.m */,
+				2387E7692064E1750016AAB7 /* View111Controller.h */,
+				2387E76A2064E1750016AAB7 /* RootNavController.h */,
+				2387E76B2064E1750016AAB7 /* View333Controller.m */,
+				2387E76C2064E1750016AAB7 /* View111Controller.m */,
+				2387E76D2064E1750016AAB7 /* RootTabBarController.h */,
+				2387E76E2064E1750016AAB7 /* View222Controller.h */,
+				2387E76F2064E1750016AAB7 /* View333Controller.h */,
+				2387E7702064E1750016AAB7 /* RootNavController.m */,
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -129,9 +162,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2387E7322064E0A40016AAB7 /* LaunchScreen.storyboard in Resources */,
+				2387E7792064E1890016AAB7 /* 111.gif in Resources */,
 				2387E72F2064E0A40016AAB7 /* Assets.xcassets in Resources */,
-				2387E72D2064E0A40016AAB7 /* Main.storyboard in Resources */,
+				2387E7782064E1890016AAB7 /* qidong.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -142,32 +175,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2387E72A2064E0A40016AAB7 /* ViewController.m in Sources */,
+				2387E7742064E1760016AAB7 /* View111Controller.m in Sources */,
+				2387E7722064E1760016AAB7 /* RootTabBarController.m in Sources */,
+				2387E7752064E1760016AAB7 /* RootNavController.m in Sources */,
+				2387E7732064E1760016AAB7 /* View333Controller.m in Sources */,
+				2387E77C2064E1BE0016AAB7 /* WSMovieController.m in Sources */,
 				2387E7352064E0A40016AAB7 /* main.m in Sources */,
 				2387E7272064E0A40016AAB7 /* AppDelegate.m in Sources */,
+				2387E7712064E1760016AAB7 /* View222Controller.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		2387E72B2064E0A40016AAB7 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				2387E72C2064E0A40016AAB7 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		2387E7302064E0A40016AAB7 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				2387E7312064E0A40016AAB7 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		2387E7362064E0A40016AAB7 /* Debug */ = {
@@ -278,6 +297,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = ZGStartMovie/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -291,6 +311,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = ZGStartMovie/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
